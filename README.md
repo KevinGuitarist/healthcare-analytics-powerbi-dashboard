@@ -27,10 +27,10 @@ Interactive 2-page Healthcare Analytics Dashboard built in Power BI to analyze 5
 
 ## Dashboard Preview
 ### Executive Overview
-![Dashboard 1](dashboard/image.png)
+![Dashboard 1](dashboard/dashboard-overview.png)
 
 ### Cost & Risk Analysis
-![Dashboard 2](dashboard/Screenshot%202026-04-29%20012144.png)
+![Dashboard 2](cost-risk-analysis.png)
 
 ## Files Included
 - healthcare.pbix
